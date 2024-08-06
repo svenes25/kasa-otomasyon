@@ -1,0 +1,24 @@
+verim
+sipariş/(saat/*kişi sayisi)
+
+personel şifre ile giriş yapacak
+mesai başlatacak
+siparişleri vs alicak
+mesai bitircek
+
+admin giriş yapıcak
+ürün ekle/sil/güncelle
+personel ekle/sil/güncelle
+analiz günlük/haftalık/aylık
+
+personel
+id isim soyisim sifre
+
+ürün
+id isim gorsel fiyat
+
+siparis
+id ü_id zaman
+
+mesai
+id p_id zaman basla/bitir
